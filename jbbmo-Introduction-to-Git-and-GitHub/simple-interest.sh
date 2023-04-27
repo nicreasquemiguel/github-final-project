@@ -5,6 +5,7 @@
 # Author: Upkar Lidder (IBM)
 # Addtional Authors:
 # nicreasquemiguel
+# Miguel Pineda
 
 # Input:
 # p, principal amount
